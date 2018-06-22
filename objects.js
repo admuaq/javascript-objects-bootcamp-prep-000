@@ -1,3 +1,1 @@
-var meals = { breakfast: "oatmeal" };
-
-var meals = new Object({ breakfast: 'oatmeal'});
+Object.assign({playlist}, {artistNames: 'song'});
